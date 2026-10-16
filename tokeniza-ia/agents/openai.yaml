@@ -1,0 +1,6 @@
+interface:
+  display_name: "Tokeniza IA"
+  short_description: "Tokenización y costos API verificables"
+  default_prompt: "Usa $tokeniza-ia para estimar y comparar costos de API con tokens y tarifas verificables."
+policy:
+  allow_implicit_invocation: true
